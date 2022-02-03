@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Problema19MAP/1.0.0": {
+        "runtime": {
+          "Problema19MAP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema19MAP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

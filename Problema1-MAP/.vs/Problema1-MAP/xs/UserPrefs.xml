@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{55793BF9-AEA5-4E97-9AED-B01879D18C44}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="66" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Problema1-MAP" expanded="True">
+            <Node name="Problema1-MAP" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>a[i, a.GetLength(1) - 1]</Value>
+          <Value>a[i, a.GetLength(1) - 1] </Value>
+          <Value>a.GetLength(1) -1</Value>
+          <Value>a[3,5]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Problema1-MAP PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

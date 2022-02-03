@@ -1,0 +1,14 @@
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/bin/Debug/netcoreapp3.1/Problema19MAP
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/bin/Debug/netcoreapp3.1/Problema19MAP.deps.json
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/bin/Debug/netcoreapp3.1/Problema19MAP.runtimeconfig.json
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/bin/Debug/netcoreapp3.1/Problema19MAP.runtimeconfig.dev.json
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/bin/Debug/netcoreapp3.1/Problema19MAP.dll
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/bin/Debug/netcoreapp3.1/Problema19MAP.pdb
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/obj/Debug/netcoreapp3.1/Problema19MAP.csproj.AssemblyReference.cache
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/obj/Debug/netcoreapp3.1/Problema19MAP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/obj/Debug/netcoreapp3.1/Problema19MAP.AssemblyInfoInputs.cache
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/obj/Debug/netcoreapp3.1/Problema19MAP.AssemblyInfo.cs
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/obj/Debug/netcoreapp3.1/Problema19MAP.csproj.CoreCompileInputs.cache
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/obj/Debug/netcoreapp3.1/Problema19MAP.dll
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/obj/Debug/netcoreapp3.1/Problema19MAP.pdb
+/Users/cristutiu/Desktop/Examen-MAP-CristutiuEmanuel/Problema19MAP/obj/Debug/netcoreapp3.1/Problema19MAP.genruntimeconfig.cache

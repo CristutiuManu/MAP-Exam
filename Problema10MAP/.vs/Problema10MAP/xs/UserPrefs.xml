@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{775F410E-1BEA-4273-8775-2977E2BB8F9C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="output.out">
+    <Files>
+      <File FileName="Program.cs" Line="23" Column="90" />
+      <File FileName="input.in" Line="1" Column="1" />
+      <File FileName="output.out" Line="1" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Problema10MAP" expanded="True">
+            <Node name="Problema10MAP" expanded="True">
+              <Node name="output.out" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Problema10MAP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
